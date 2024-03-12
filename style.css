@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+background-color: bisque;
+padding: 18;
+}
+#navbar{
+    background-color: brown;
+    padding: 15px;
+    margin-bottom: 20;
+    border-radius: 5px;
+
+
+}
+
+#team{
+    background-color: beige;
+    display: flex;
+    flex-direction:row
+
+
+}
