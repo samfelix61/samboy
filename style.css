@@ -12,8 +12,24 @@ padding: 18;
     margin-bottom: 20;
     border-radius: 5px;
 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+
 
 }
+
+a{
+    text-decoration: none;
+}
+#section #navbar .links a{
+display: flex;
+gap: 30px;
+
+}
+
 
 #team{
     background-color: beige;
